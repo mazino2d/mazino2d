@@ -4,7 +4,7 @@
 
 ## 📝 Summary
 
-Data Scientist with **6+ years of experience** leveraging data and machine learning to solve business problems at scale.
+Data Scientist with **7+ years of experience** leveraging data and machine learning to solve business problems at scale.
 
 🏦 **At Cake By VPBank**, designed end-to-end **credit scoring systems** that enabled aggressive loan disbursement growth while maintaining target bad debt ratios, directly supporting the bank's lending expansion strategy.
 
@@ -15,6 +15,12 @@ Data Scientist with **6+ years of experience** leveraging data and machine learn
 ### 🎯 Domain Expertise
 ![Credit Scoring](https://img.shields.io/badge/Credit%20Scoring-FF6B6B?style=for-the-badge)
 ![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-4ECDC4?style=for-the-badge)
+
+### 💼 Business Analysis
+![Data-Driven Decision Making](https://img.shields.io/badge/Data--Driven%20Decision%20Making-E74C3C?style=for-the-badge)
+![Problem Framing](https://img.shields.io/badge/Problem%20Framing-F39C12?style=for-the-badge)
+![Experiment Design](https://img.shields.io/badge/Experiment%20Design-27AE60?style=for-the-badge)
+![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-8E44AD?style=for-the-badge)
 
 ### 🤖 Data Science
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
@@ -40,12 +46,6 @@ Data Scientist with **6+ years of experience** leveraging data and machine learn
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### 💼 Business Analysis
-![Data-Driven Decision Making](https://img.shields.io/badge/Data--Driven%20Decision%20Making-E74C3C?style=for-the-badge)
-![Problem Framing](https://img.shields.io/badge/Problem%20Framing-F39C12?style=for-the-badge)
-![Experiment Design](https://img.shields.io/badge/Experiment%20Design-27AE60?style=for-the-badge)
-![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-8E44AD?style=for-the-badge)
 
 ### ⚙️ MLOps
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
