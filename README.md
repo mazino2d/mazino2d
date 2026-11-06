@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Do Dang Khoi
 
-### 🚀 Data Scientist
+### 🚀 Lead Data Scientist
 
 ## 📝 Summary
 
